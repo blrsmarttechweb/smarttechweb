@@ -1,0 +1,27 @@
+SMART TECH WEBSITE (HTML)
+=========================
+
+COMPUTER PAR DEKHNA
+  index.html par double-click karo. Website Chrome / Edge mein khul jayegi.
+  (Fonts ke liye internet chahiye; bina internet ke bhi chalegi.)
+
+GODADDY PAR LAGANA (cPanel hosting)
+  1. cPanel > File Manager > public_html kholo.
+  2. Is folder ki SAARI files aur folders wahan upload karo
+     (index.html seedha public_html ke andar hona chahiye).
+     .htaccess file bhi upload honi chahiye - File Manager mein
+     Settings > "Show Hidden Files" on karo.
+  3. www.smarttech.org.in kholo - website chalu.
+
+ENQUIRY KAHAN AAYEGI
+  - GoDaddy hosting par: form bharte hi email seedha
+    rishikesh@smarttech.org.in par aata hai (send-enquiry.php se),
+    aur ek copy server par enquiries-log folder mein bhi rehti hai.
+  - Agar email nahi ja paya, ya website computer se kholi hai:
+    customer ko "Send on WhatsApp" / "Send by email" button milta hai,
+    jisme uski saari details pehle se bhari hoti hain.
+
+KYA BADALNA HO TO
+  Ye HTML website hai - admin panel nahi hai. Product, banner ya
+  text badalna ho to PHP wali website (admin panel) mein badal kar
+  ye HTML dobara banwa lo.

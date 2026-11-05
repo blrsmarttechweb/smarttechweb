@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /thank-you
+Disallow: /send-enquiry.php
+Sitemap: https://www.smarttech.org.in/sitemap.xml

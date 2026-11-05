@@ -1,0 +1,12 @@
+﻿# OS Metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+.DS_Store
+
+# Temporary & Log files
+*.log
+enquiries-log/
+*.tmp
+*.bak
