@@ -1,0 +1,9 @@
+﻿{
+  "name": "smarttechweb",
+  "version": "1.0.0",
+  "description": "Smart Tech Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
