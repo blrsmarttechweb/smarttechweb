@@ -1,0 +1,6 @@
+﻿services:
+  - type: web
+    name: smarttechweb
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: "./Smart Tech Website"
